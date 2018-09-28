@@ -1,0 +1,8 @@
+npm-debug.log
+.DS_Store
+dist
+temp
+.vscode
+node_modules
+lib
+lib-esm

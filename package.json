@@ -1,0 +1,31 @@
+{
+    "name": "postcss-remove-style",
+    "version": "0.0.1",
+    "description": "一个删除指定css属性的插件",
+    "main": "index.js",
+    "dependencies": {
+        "postcss": "^7.0.4"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-postcss": "^8.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xieqingtian/postcss-remove-style.git"
+    },
+    "author": {
+        "name": "xieqingtian",
+        "email": "1255699673@qq.com"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/xieqingtian/postcss-remove-style/issues"
+    },
+    "homepage": "https://github.com/xieqingtian/postcss-remove-style#readme",
+    "keywords": ["remove", "postcss", "style", "rule", "postcss-remove-style"],
+    "files": ["index.js"]
+}
